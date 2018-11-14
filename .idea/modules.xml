@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/3_Building_Applications_with_React_and_Redux_in_ES6.iml" filepath="$PROJECT_DIR$/.idea/3_Building_Applications_with_React_and_Redux_in_ES6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/react-redux-es6-pluralsight.iml" filepath="$PROJECT_DIR$/react-redux-es6-pluralsight.iml" />
     </modules>
   </component>
 </project>
